@@ -1,4 +1,4 @@
-.venv/
-data/
-models/
-*.json
+/.venv
+/.vscode
+data
+*.pth
